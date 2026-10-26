@@ -65,6 +65,15 @@ Prompt entry by voice for supported browsers and configurations.
 
 </td></tr></table>
 
+
+## Practical workflows and discoverability
+
+Coder supports a connected workflow from natural-language prompt to generated project, live preview, iterative refinement, code editing and supported publication. Its product areas include AI website creation, application prototyping, templates, design systems, WordPress and Shopify theme workflows, and available database or API connections.
+
+The platform is relevant to founders, agencies, developers, designers and small businesses exploring AI website builders, prompt-to-code workflows, AI application generation, live website previews and visual project editors. Availability of individual options depends on the active configuration.
+
+[Read the Macedonian product overview](README.mk.md).
+
 ## The Coder workflow
 
 <div align="center">
