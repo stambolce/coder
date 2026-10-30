@@ -1,31 +1,23 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://coder.mk"><img src="https://coder.mk/storage/branding/vzU3OTeAZqXFVeqEdWHSKkbFVdNhdBTsrAs2roFK.png" alt="Official Coder logo" width="480" /></a>
+# Coder
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/coder-hero.svg" alt="Coder — AI website and application builder with prompt-to-app workflow and live preview" width="100%" />
+<img src="https://coder.mk/storage/branding/vzU3OTeAZqXFVeqEdWHSKkbFVdNhdBTsrAs2roFK.png" alt="Coder — prezantim vizual i produktit" width="480" />
 
-<br/>
+<img src="assets/coder-hero.svg" alt="Coder — prezantim vizual i produktit" width="100%" />
+
+**Nga biseda te produkti digjital funksional.**
 
 [![Official Website](https://img.shields.io/badge/CODER.MK-OFFICIAL_WEBSITE-111111?style=for-the-badge)](https://coder.mk)
 [![AI Builder](https://img.shields.io/badge/AI--POWERED-APP_BUILDER-333333?style=for-the-badge)](https://coder.mk)
 [![Company](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-111111?style=for-the-badge)](https://processin.mk)
 [![Invest](https://img.shields.io/badge/PRODUCT_%26_INVESTMENT-CODER.MK-555555?style=for-the-badge)](https://coder.mk)
 
-
-
-
-
-### Nga biseda te produkti digjital funksional.
-
-**Nga biseda te produkti digjital funksional.**
+**LIVE**
 
 </div>
-
----
 
 ## Ndërtoni me AI
 
@@ -66,7 +58,7 @@ Platforma është për themelues, agjenci, zhvillues, dizajnerë dhe biznese të
 |---|---|
 | Produkti | Coder |
 | Faqja zyrtare | [coder.mk](https://coder.mk) |
-| Kategoria | Ndërtues AI faqesh dhe aplikacionesh |
+| Kategoria | Ndërtim faqesh dhe aplikacionesh me AI |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
