@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://coder.mk"><img src="https://coder.mk/storage/branding/vzU3OTeAZqXFVeqEdWHSKkbFVdNhdBTsrAs2roFK.png" alt="Official Coder logo" width="480" /></a>
